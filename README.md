@@ -44,6 +44,10 @@ The app should now be accessible at `http://localhost:8080/` (or another port if
 3. If the URL is valid, the app will process the match data.
 4. The processed statistics will be **plotted and displayed** for analysis.
 
+## Backend Repository
+The backend for this project is available at:
+[FootballMatchAnalysisBackend](https://github.com/DSnake333/FootballMatchAnalysisBackend)
+
 ## 🤝 Contributing
 Feel free to fork the repository, make improvements, and submit a pull request!
 
