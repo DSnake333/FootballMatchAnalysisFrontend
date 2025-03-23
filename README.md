@@ -46,7 +46,9 @@ The app should now be accessible at `http://localhost:8080/` (or another port if
 
 ## Backend Repository
 The backend for this project is available at:
-[FootballMatchAnalysisBackend](https://github.com/DSnake333/FootballMatchAnalysisBackend)
+[FootballMatchAnalysisBackend](https://github.com/DSnake333/FootballMatchAnalysisBackend) (https://footballmatchanalysisbackend-production.up.railway.app/)
+
+and the frontend can be accessed at : https://football-match-analyzer.netlify.app/
 
 ## 🤝 Contributing
 Feel free to fork the repository, make improvements, and submit a pull request!
