@@ -562,7 +562,7 @@ export default {
       this.resetData();
 
       try {
-        const response = await fetch("https://footballmatchanalysisbackend-production.up.railway.app/analyze-match", {
+        const response = await fetch("https://footballmatchanalysisbackend-production-cdf8.up.railway.app/analyze-match", {
           method: "POST",
           headers: {
             "Content-Type": "application/json",
@@ -604,7 +604,7 @@ export default {
     },
     async fetchMetrics() {
       try {
-        const response = await fetch("https://footballmatchanalysisbackend-production.up.railway.app/visualizations/metrics");
+        const response = await fetch("https://footballmatchanalysisbackend-production-cdf8.up.railway.app/visualizations/metrics");
         if (!response.ok) {
           throw new Error('Failed to fetch metrics');
         }
